@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 <h1 align="center"> Jue </h1>
 <p align="center"> Qualle, Harmo </p>
 
-<h2> 🪼&nbsp;Qualle.exe</h2>
 ---
+<h2> 🪼&nbsp;Qualle.exe</h2>
 
 ```yaml
 name: Sirapop Yiwlek
