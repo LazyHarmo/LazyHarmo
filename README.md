@@ -1,16 +1,25 @@
-## Hi there 👋
+```yaml
+name: Sirapop Yiwlek
+located_in: Chonburi, Thailand
+current_job: I’m a student at the Department of Computer Engineering
+education:
+[
+    "Self-Taught Devloper",
+    "Undergraduates in Computer Engineering"
+]
 
-<!--
-**LazyHarmo/LazyHarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interest:
+[
+    "Aertificial Intelligence And Machine Learning",
+    "Statistic For Data Analysis",
+    "Data Analytic And Data Science",
+    "High-Performance Computing",
+    "Embedded System Developer",
+    "Software Defined Architecture",
+    "OS/kernel developers"
+]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["Docker, Kubernetes", "Database Query"]
+2024_Goals: ["Learn at least 3 new Technologies"]
+hobbies: ["Reading", "Gaming", "Photography"]
+```
