@@ -1,7 +1,9 @@
 <h1 align="center"> Jue </h1>
 <p align="center"> Qualle, Harmo </p>
 
-<h2>Qualle.exe</h1>
+<h2> 🪼&nbsp;Qualle.exe</h2>
+---
+
 ```yaml
 name: Sirapop Yiwlek
 located_in: Chonburi, Thailand
@@ -27,3 +29,5 @@ currently_learning: ["Docker, Kubernetes", "Database Query"]
 2024_Goals: ["Learn at least 3 new Technologies"]
 hobbies: ["Reading", "Gaming", "Photography"]
 ```
+
+---
