@@ -1,5 +1,5 @@
 <h1 align="center"> Jue </h1>
-<p align="center"> Qualle, Harmo </p>
+<p align="center">aka Qualle, Harmo </p>
 
 ---
 <h2> 🪼&nbsp;Qualle.exe</h2>
