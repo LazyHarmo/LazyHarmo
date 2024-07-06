@@ -25,7 +25,7 @@ fields_of_interest:
     "OS/kernel developers"
 ]
 
-currently_learning: ["Docker, Kubernetes", "Database Query"]
+currently_learning: ["Docker, Kubernetes", "Database Query", "Flutter"]
 2024_Goals: ["Learn at least 3 new Technologies"]
 hobbies: ["Reading", "Gaming", "Photography"]
 ```
