@@ -61,7 +61,7 @@ hobbies: ["Reading", "Gaming", "Photography"]
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/LazyHarmo">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LazyHarmo&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LazyHarmo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyHarmo&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
