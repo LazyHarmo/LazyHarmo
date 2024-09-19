@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=600&letterSpacing=1px&pause=1000&color=75B7EA&center=true&multiline=true&width=435&height=60&lines=%22A-quality+day+to+one+and+all!%22;I'm+Qualle.+Nice+to+meet+you+!!!)](https://git.io/typing-svg)
 
-<img src="https://gifer.com/embed/7kA" alt="Jellyfish" align="right" width="480">
+<img src="https://i.gifer.com/7kA.gif" alt="Jellyfish" align="right" width="480">
 
 ---
 
