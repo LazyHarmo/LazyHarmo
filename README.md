@@ -2,7 +2,8 @@
 <p align="center">aka Qualle, Harmo </p>
 
 ---
-<h2> 🪼&nbsp;Qualle.exe</h2>
+
+## 🪼Qualle.exe
 
 ```yaml
 name: Sirapop Yiwlek
@@ -32,7 +33,8 @@ hobbies: ["Reading", "Gaming", "Photography"]
 
 ---
 
-<h2> ⚙️&nbsp;Some Tools I Have Used and Learned</h2>
+## ⚙️Some Tools I Have Used and Learned
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -49,7 +51,16 @@ hobbies: ["Reading", "Gaming", "Photography"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
+
+### Github Stats
+
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/LazyHarmo">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LazyHarmo&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyHarmo&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
