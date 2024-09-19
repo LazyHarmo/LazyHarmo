@@ -54,11 +54,11 @@ hobbies: ["Reading", "Gaming", "Photography"]
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=git)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=git)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=bash)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 ### Github Stats
 
