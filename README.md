@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#7eb7ea&width=435&lines=Hello%2C+everyone!+I'm+Qualle;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&weight=600&letterSpacing=1px&pause=1000&color=75B7EA&center=true&multiline=true&width=435&height=60&lines=%22A-quality+day+to+one+and+all!%22;I'm+Qualle.+Nice+to+meet+you+!!!)](https://git.io/typing-svg)
 ---
 
 ## 🪼Qualle.exe
