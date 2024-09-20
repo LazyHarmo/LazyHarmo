@@ -73,3 +73,5 @@ hobbies: ["Reading", "Gaming", "Photography"]
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyHarmo&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyHarmo&theme=dark&show_icons=true)
