@@ -62,6 +62,7 @@ hobbies: ["Reading", "Gaming", "Photography"]
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=webassembly)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
 
 ### Github Stats
 
