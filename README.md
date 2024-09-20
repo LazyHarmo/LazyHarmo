@@ -10,6 +10,7 @@ aka windmill, Harmo
 
 ---
 
+
 ```yaml
 name: Sirapop Yiwlek
 located_in: Chonburi, Thailand
@@ -60,6 +61,7 @@ hobbies: ["Reading", "Gaming", "Photography"]
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Assembly](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=webassembly)&nbsp;
 
 ### Github Stats
 
