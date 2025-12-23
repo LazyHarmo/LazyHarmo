@@ -14,11 +14,11 @@ aka windmill, Harmo
 ```yaml
 name: Sirapop Yiwlek
 located_in: Chonburi, Thailand
-current_job: I’m a student at the Department of Computer Engineering
+current_job: ?????
 education:
 [
     "Self-Taught Devloper",
-    "Undergraduates in Computer Engineering"
+    "graduated Computer Engineering"
 ]
 
 fields_of_interest:
@@ -32,9 +32,9 @@ fields_of_interest:
     "OS/kernel developers"
 ]
 
-currently_learning: ["Docker, Kubernetes", "Database Query", "Flutter"]
-2024_Goals: ["Learn at least 3 new Technologies"]
-hobbies: ["Reading", "Gaming", "Photography"]
+currently_learning: ["Database Query", "ETL", "Container", "Clustering Computing"]
+2026_Goals: ["Complete Schema"]
+hobbies: ["Reading", "Gaming", "Photography" ,"Musical"]
 ```
 
 ---
