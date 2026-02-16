@@ -18,7 +18,12 @@ current_job: secret
 
 currently_learning: ["Database Query", "ETL", "Container", "Clustering Computing"]
 2026_Goals: ["Complete Schema"]
-hobbies: ["Reading", "Gaming", "Photography" ,"Musical", "Turn my room in to full automatic lazy a** friendly"]
+hobbies: [
+"Reading",
+"Gaming",
+"Photography",
+"Musical",
+"Turn my room in to full automatic lazy a** friendly"]
 ```
 
 ---
