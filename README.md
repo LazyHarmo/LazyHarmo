@@ -12,29 +12,13 @@ aka windmill, Harmo
 
 
 ```yaml
-name: Sirapop Yiwlek
+name: ******* ******
 located_in: Chonburi, Thailand
-current_job: ?????
-education:
-[
-    "Self-Taught Devloper",
-    "graduated Computer Engineering"
-]
-
-fields_of_interest:
-[
-    "Aertificial Intelligence And Machine Learning",
-    "Statistic For Data Analysis",
-    "Data Analytic And Data Science",
-    "High-Performance Computing",
-    "Embedded System Developer",
-    "Software Defined Architecture",
-    "OS/kernel developers"
-]
+current_job: secret
 
 currently_learning: ["Database Query", "ETL", "Container", "Clustering Computing"]
 2026_Goals: ["Complete Schema"]
-hobbies: ["Reading", "Gaming", "Photography" ,"Musical"]
+hobbies: ["Reading", "Gaming", "Photography" ,"Musical", "Turn my room in to full automatic lazy a** friendly"]
 ```
 
 ---
